@@ -22,5 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
         Date dateToDateFormat = ConversionFormattingFunctions.getFormattedStringDateToDateFormat(date);
         System.out.println("date format: "+dateToDateFormat);
+
     }
 }
