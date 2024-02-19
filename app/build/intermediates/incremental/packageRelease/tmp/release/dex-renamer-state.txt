@@ -1,0 +1,4 @@
+#Mon Feb 19 19:19:14 IST 2024
+base.0=/Users/pranaynarvankar/Documents/IntelliswiftLibraries/ConversionFormattingLibrary/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
